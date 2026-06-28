@@ -243,7 +243,7 @@ https://your-demo-link.com
 
 🔗 Repository
 
-https://github.com/YOUR_USERNAME/project
+https://github.com/a7medka3oud/project
 
 </td>
 
@@ -265,7 +265,7 @@ https://your-demo-link.com
 
 🔗 Repository
 
-https://github.com/YOUR_USERNAME/project
+https://github.com/a7medka3oud/project
 
 </td>
 
@@ -308,7 +308,7 @@ https://your-demo-link.com
 
 🔗 Repository
 
-https://github.com/YOUR_USERNAME/project
+https://github.com/a7medka3oud/project
 
 </td>
 
@@ -490,19 +490,19 @@ Creative Developer
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/a7medka3oud">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://behance.net/YOUR_USERNAME">
+<a href="https://behance.net/a7medka3oud">
 <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO.com">
+<a href="https://a7medka3oud.com">
 <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:a7medka3oud@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -510,15 +510,15 @@ Creative Developer
 
 <p align="center">
 
-<a href="https://facebook.com/YOUR_USERNAME">
+<a href="https://facebook.com/a7medka3oud">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/a7medka3oud">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://x.com/YOUR_USERNAME">
+<a href="https://x.com/a7medka3oud">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
@@ -655,9 +655,9 @@ Made with ❤️ by Ahmed Kaoud
 <!--
 Replace the following placeholders:
 
-YOUR_USERNAME
-YOUR_PORTFOLIO.com
-YOUR_EMAIL@gmail.com
+a7medka3oud
+a7medka3oud.com
+a7medka3oud@gmail.com
 
 LinkedIn URL
 Behance URL
