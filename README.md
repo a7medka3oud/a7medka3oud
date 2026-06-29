@@ -317,22 +317,22 @@ https://behance.net/
 
 <td>
 
-## ⚡ Digital Agency Website
+## ⚡ Nav Bar Menu
 
-Modern agency website designed for speed, SEO and conversion.
+Navigation Bar Menu (Beta) 
 
 **Tech**
 
-* Vue.js
-* Tailwind CSS
+* HTML
+* CSS
 
 🔗 Demo
 
-https://your-demo-link.com
+https://a7medka3oud.github.io/nav_bar/
 
 🔗 Repository
 
-https://github.com/a7medka3oud/project
+https://github.com/a7medka3oud/nav_bar
 
 </td>
 
