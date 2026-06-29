@@ -273,23 +273,24 @@ https://github.com/a7medka3oud/project
 
 <td>
 
-## 🚀 Landing Page Builder
+## 🚀 Smart Digital Menu
 
-Collection of high-converting landing pages focused on performance and responsive design.
+A smart digital restaurant menu designed to simplify browsing and ordering through a clean interface, intuitive navigation, and a seamless user experience.
 
 **Tech**
 
 * HTML
 * Sass
 * JavaScript
+* Vue.js
 
 🔗 Demo
 
-https://your-demo-link.com
+https://a7medka3oud.github.io/digital_menu/
 
 🔗 Repository
 
-https://github.com/a7medka3oud/project
+https://github.com/a7medka3oud/digital_menu
 
 </td>
 
