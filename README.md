@@ -251,23 +251,22 @@ https://github.com/a7medka3oud/portfolio
 
 <td>
 
-## 💼 Business Dashboard
+## 💼 Email Signature
 
-A responsive dashboard with analytics, charts and user management.
+Designed and developed a responsive HTML email signature, combining custom graphics created in Adobe Illustrator with clean, cross-client compatible HTML and CSS for a professional brand identity.
 
 **Tech**
 
-* Vue.js
-* Bootstrap
-* Node.js
+* HTML
+* Illustrator
 
 🔗 Demo
 
-https://your-demo-link.com
+https://a7medka3oud.github.io/email_signature/
 
 🔗 Repository
 
-https://github.com/a7medka3oud/project
+https://github.com/a7medka3oud/email_signature
 
 </td>
 
