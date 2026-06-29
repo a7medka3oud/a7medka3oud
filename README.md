@@ -237,11 +237,11 @@ A premium portfolio website showcasing branding projects and front-end developme
 
 🔗 Live Demo
 
-https://your-demo-link.com
+https://a7medka3oud.github.io/portfolio/
 
 🔗 Repository
 
-https://github.com/YOUR_USERNAME/project
+https://github.com/a7medka3oud/portfolio
 
 </td>
 
