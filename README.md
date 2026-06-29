@@ -141,17 +141,29 @@ Additional Tools
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api?username=a7medka3oud&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+ alt="GitHub Stats"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medka3oud&layout=compact&theme=github_dark&hide_border=true"
+ alt="Top Languages"
+/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img
+ src="https://streak-stats.demolab.com?user=a7medka3oud&theme=github-dark&hide_border=true"
+ alt="GitHub Streak"
+/>
 
 </p>
+
 
 ---
 
@@ -159,7 +171,7 @@ Additional Tools
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=a7medka3oud&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
 
 </p>
 
@@ -542,7 +554,7 @@ Creative Developer
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=FF4500&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=a7medka3oud&label=Profile+Views&color=FF4500&style=for-the-badge"/>
 
 </p>
 
@@ -552,7 +564,7 @@ Creative Developer
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/a7medka3oud/a7medka3oud/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -564,7 +576,7 @@ Creative Developer
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=a7medka3oud&theme=github-dark&hide_border=true"/>
 
 </p>
 
