@@ -61,7 +61,7 @@ I believe successful products are created when **creativity**, **user experience
 * Modern Front-End
 
 </td>
-<td width="33%">
+<td width="34%">
 
 ### 🚀 Brand Strategy
 
