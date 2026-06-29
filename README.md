@@ -61,6 +61,21 @@ I believe successful products are created when **creativity**, **user experience
 * Modern Front-End
 
 </td>
+<td width="50%">
+
+### 🚀 Brand Strategy
+
+* Startup Branding
+* Personal Branding
+* Digital Brand Presence
+* Unified Social Media Identity
+* Username Strategy
+* Brand Guidelines
+* Visual Consistency
+* Online Presence Development
+
+</td>
+
 </tr>
 </table>
 
