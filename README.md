@@ -36,7 +36,7 @@ I believe successful products are created when **creativity**, **user experience
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🎨 Design
 
@@ -49,7 +49,7 @@ I believe successful products are created when **creativity**, **user experience
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
 ### 💻 Development
 
@@ -61,7 +61,7 @@ I believe successful products are created when **creativity**, **user experience
 * Modern Front-End
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🚀 Brand Strategy
 
