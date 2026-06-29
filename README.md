@@ -104,23 +104,8 @@ I believe successful products are created when **creativity**, **user experience
 ---
 
 ## 🎨 Design
-
 <p>
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-original.svg" width="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48"/>
-
-</p>
-
+<img src="https://skillicons.dev/icons?i=figma,ps,ai"/>
 </p>
 
 Additional Tools
