@@ -643,6 +643,8 @@ Arabic
 
 English
 
+German
+
 </td>
 
 <td>
