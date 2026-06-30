@@ -308,10 +308,11 @@ Professional branding projects including logos, visual identities and design sys
 * Illustrator
 * Photoshop
 * InDesign
+* Figma
 
 🔗 Behance
 
-https://behance.net/
+https://www.behance.net/a7medk3oud
 
 </td>
 
