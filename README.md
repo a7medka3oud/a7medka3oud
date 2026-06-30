@@ -399,6 +399,31 @@ https://github.com/a7medka3oud/nav_bar
 
 </td>
 
+
+<td>
+
+### 🌐 Brand Strategy
+
+✔ Startup Branding
+
+✔ Personal Branding
+
+✔ Digital Identity
+
+✔ Unified Social Profiles
+
+✔ Username Strategy
+
+✔ Visual Consistency
+
+✔ Brand Guidelines
+
+✔ Online Presence Development
+
+</td>
+
+
+
 </tr>
 
 </table>
