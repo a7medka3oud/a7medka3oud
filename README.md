@@ -203,23 +203,24 @@ Additional Tools
 
 <td width="50%">
 
-## 🌐 Startup Platform
+## 🌐 Domain Portfolio
 
-A complete digital platform designed to help startups build their online presence with a modern UI and scalable architecture.
+A curated portfolio of premium, brandable domain names for startups, businesses, and entrepreneurs.
 
 **Tech Stack**
 
 * Vue.js
-* Tailwind CSS
+* JavaScript
+* TypeScript
 * Node.js
 
 🔗 **Live Demo**
 
-https://your-demo-link.com
+https://domain-website-one.vercel.app/
 
 🔗 **Repository**
 
-https://github.com/YOUR_USERNAME/project
+https://github.com/a7medka3oud/domain_website
 
 </td>
 
