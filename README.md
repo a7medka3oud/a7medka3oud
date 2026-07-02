@@ -313,7 +313,7 @@ Professional branding projects including logos, visual identities and design sys
 
 🔗 Behance
 
-https://www.behance.net/a7medk3oud
+https://www.behance.net/a7medka3oud
 
 </td>
 
